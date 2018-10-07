@@ -1,1 +1,1 @@
-web: python v3.py
+web: python verk3.py
